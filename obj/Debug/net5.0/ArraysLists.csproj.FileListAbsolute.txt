@@ -1,0 +1,16 @@
+C:\Users\Addq2\Documents\Projects\ArraysLists\bin\Debug\net5.0\ArraysLists.exe
+C:\Users\Addq2\Documents\Projects\ArraysLists\bin\Debug\net5.0\ArraysLists.deps.json
+C:\Users\Addq2\Documents\Projects\ArraysLists\bin\Debug\net5.0\ArraysLists.runtimeconfig.json
+C:\Users\Addq2\Documents\Projects\ArraysLists\bin\Debug\net5.0\ArraysLists.runtimeconfig.dev.json
+C:\Users\Addq2\Documents\Projects\ArraysLists\bin\Debug\net5.0\ArraysLists.dll
+C:\Users\Addq2\Documents\Projects\ArraysLists\bin\Debug\net5.0\ref\ArraysLists.dll
+C:\Users\Addq2\Documents\Projects\ArraysLists\bin\Debug\net5.0\ArraysLists.pdb
+C:\Users\Addq2\Documents\Projects\ArraysLists\obj\Debug\net5.0\ArraysLists.csprojAssemblyReference.cache
+C:\Users\Addq2\Documents\Projects\ArraysLists\obj\Debug\net5.0\ArraysLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Addq2\Documents\Projects\ArraysLists\obj\Debug\net5.0\ArraysLists.AssemblyInfoInputs.cache
+C:\Users\Addq2\Documents\Projects\ArraysLists\obj\Debug\net5.0\ArraysLists.AssemblyInfo.cs
+C:\Users\Addq2\Documents\Projects\ArraysLists\obj\Debug\net5.0\ArraysLists.csproj.CoreCompileInputs.cache
+C:\Users\Addq2\Documents\Projects\ArraysLists\obj\Debug\net5.0\ArraysLists.dll
+C:\Users\Addq2\Documents\Projects\ArraysLists\obj\Debug\net5.0\ref\ArraysLists.dll
+C:\Users\Addq2\Documents\Projects\ArraysLists\obj\Debug\net5.0\ArraysLists.pdb
+C:\Users\Addq2\Documents\Projects\ArraysLists\obj\Debug\net5.0\ArraysLists.genruntimeconfig.cache
